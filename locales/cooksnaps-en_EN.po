@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013 Cooksnaps
+# This file is distributed under the same license as the Cooksnaps package.
+# FIRST AUTHOR <jorge@cooksnaps.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cooksnaps\n"
+"Report-Msgid-Bugs-To: tech@cooksnaps.com\n"
+"POT-Creation-Date: 2014-02-22 10:16+0900\n"
+"PO-Revision-Date: 2014-01-29 15:11+0900\n"
+"Last-Translator: Chef <tech@cooksnaps.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: admin/cooksnaps_settings.php:5
+msgid "Cooksnaps config settings"
+msgstr "Cooksnaps Settings"
+
+#: admin/cooksnaps_settings.php:8
+msgid "Cooksnaps widget key"
+msgstr "Author Key"
+
+#: admin/cooksnaps_settings.php:13
+msgid "Write here your Cooksnap widget author key"
+msgstr ""
+"This is the unique identifier for your website at Cooksnaps. Get yours by "
+"logging in at http://cooksnaps.com and checking profile page."
+
+#: admin/cooksnaps_settings.php:20 admin/cooksnaps_settings.php:48
+msgid "Save changes"
+msgstr "Save"
+
+#: admin/cooksnaps_settings.php:27
+msgid "Cooksnaps widget language"
+msgstr "Display Language"
+
+#: admin/cooksnaps_settings.php:32
+msgid "Select the language for Cooksnap widget"
+msgstr ""
+"The Cooksnaps widget can be displayed in the languages listed. Choose your "
+"preferred language"
+
+#: cooksnaps.php:171
+msgid ""
+"Shows the cooksnaps widget for the current recipe page in the selected "
+"sidebar."
+msgstr ""
+"Shows the cooksnaps widget for the current recipe page in the selected "
+"sidebar."
+
+#: cooksnaps.php:199
+msgid "Shows the cooksnaps gallery widget in the selected sidebar."
+msgstr "Shows the Cooksnaps Gallery Widget in the selected sidebar."
